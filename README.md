@@ -88,9 +88,9 @@ The two projects then run separately:
 
 ## Attribution
 
-- **Original research, 2022 (Mongolia):** NASA/JPL fellowship research by Aster Volta, advised by Dr. Erika Podest, Dr. Kerry Cawse-Nicholson and Dr. Kyle McDonald, with ECOSTRESS-team involvement.
-- **Computational reconstruction, 2026 (Mongolia):** the recoverable 2022 analyses were re-implemented, checked against archived inputs and documented by Aster Volta.
-- **Independent collaborative research, 2026 (Ruralidad):** Aster Volta with Dr. Francisco de Aguinaga Padilla. Not part of the NASA/JPL work.
+- **Original research, 2022 (Mongolia):** NASA/JPL fellowship research by Aster Íñigo Volta, advised by Dr. Erika Podest, Dr. Kerry Cawse-Nicholson and Dr. Kyle McDonald, with ECOSTRESS-team involvement.
+- **Computational reconstruction, 2026 (Mongolia):** the recoverable 2022 analyses were re-implemented, checked against archived inputs and documented by Aster Íñigo Volta.
+- **Independent collaborative research, 2026 (Ruralidad):** Aster Íñigo Volta with Dr. Francisco de Aguinaga Padilla. Not part of the NASA/JPL work.
 
 This is a personal research portfolio. It is not an official NASA or JPL publication, and nothing here is a peer-reviewed paper. Satellite and statistical source products remain attributable to their original providers.
 

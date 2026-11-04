@@ -1,8 +1,8 @@
 # Ruralidad Metropolitana, 2026: H1 validation evidence and audit notebook
 
-**Aster Volta with Dr. Francisco de Aguinaga Padilla · Project 2 of the [research portfolio](../README.md)**
+**Aster Íñigo Volta with Dr. Francisco de Aguinaga Padilla · Project 2 of the [research portfolio](../README.md)**
 
-This is a **separate 2026 geospatial research project** developed by Aster Volta in collaboration with Dr. Francisco de Aguinaga Padilla. Its book chapter is **in preparation**. It has not been accepted or published. It is not part of the NASA/JPL Mongolia research documented in [`docs/MONGOLIA.md`](../docs/MONGOLIA.md).
+This is a **separate 2026 geospatial research project** developed by Aster Íñigo Volta in collaboration with Dr. Francisco de Aguinaga Padilla. Its book chapter is **in preparation**. It has not been accepted or published. It is not part of the NASA/JPL Mongolia research documented in [`docs/MONGOLIA.md`](../docs/MONGOLIA.md).
 
 Do not combine this research directly with Mongolia climate data: the projects investigate different places and questions.
 
@@ -62,4 +62,4 @@ This workflow is separate from the Mongolia project: `run_all.py` and the `tests
 
 ## Attribution
 
-Ruralidad Metropolitana is independent collaborative research by Aster Volta and Dr. Francisco de Aguinaga Padilla, 2026. A book chapter is in preparation and has not been accepted or published. Source datasets (MapBiomas, INEGI) remain attributable to their providers.
+Ruralidad Metropolitana is independent collaborative research by Aster Íñigo Volta and Dr. Francisco de Aguinaga Padilla, 2026. A book chapter is in preparation and has not been accepted or published. Source datasets (MapBiomas, INEGI) remain attributable to their providers.

@@ -1,6 +1,6 @@
 # Mongolia Dzud Research | NASA/JPL Fellowship, 2022
 
-**Aster Volta · Project 1 of the [research portfolio](../README.md)**  
+**Aster Íñigo Volta · Project 1 of the [research portfolio](../README.md)**  
 Satellite-derived summer environmental indicators, winter dzud research, and livestock mortality in Mongolia.
 
 This is a **reconstructed, executable research portfolio** derived from my 2022 NASA/JPL fellowship and archived observations. It does not purport to be the exact original 2022 computational environment, a published study, or a validated dzud prediction model.
@@ -76,7 +76,7 @@ Reproduced: **MODIS**, **SMAP**, **FLDAS**, **ECOSTRESS ET statistics/footprint 
 
 ## Attribution
 
-- **Original research (2022):** NASA/JPL fellowship work by **Aster Volta**, advised by Dr. Erika Podest, Dr. Kerry Cawse-Nicholson, and Dr. Kyle McDonald, with ECOSTRESS-team involvement.
-- **Computational reconstruction (2026):** the recoverable analyses were re-implemented, checked against the archived inputs and documented by Aster Volta. This is not the original 2022 computational environment.
+- **Original research (2022):** NASA/JPL fellowship work by **Aster Íñigo Volta**, advised by Dr. Erika Podest, Dr. Kerry Cawse-Nicholson, and Dr. Kyle McDonald, with ECOSTRESS-team involvement.
+- **Computational reconstruction (2026):** the recoverable analyses were re-implemented, checked against the archived inputs and documented by Aster Íñigo Volta. This is not the original 2022 computational environment.
 
 This personal scientific portfolio is not an official NASA/JPL publication or institutional endorsement. Source satellite products remain attributable to their providers. Reference the linked scientific products and the original presentations for further background.
