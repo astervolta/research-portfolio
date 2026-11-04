@@ -77,6 +77,6 @@ Reproduced: **MODIS**, **SMAP**, **FLDAS**, **ECOSTRESS ET statistics/footprint 
 ## Attribution
 
 - **Original research (2022):** NASA/JPL fellowship work by **Aster Volta**, advised by Dr. Erika Podest, Dr. Kerry Cawse-Nicholson, and Dr. Kyle McDonald, with ECOSTRESS-team involvement.
-- **Computational reconstruction (2026):** the recoverable analyses were re-implemented, checked against the archived inputs and documented by Aster Volta, with computational assistance. This is not the original 2022 computational environment.
+- **Computational reconstruction (2026):** the recoverable analyses were re-implemented, checked against the archived inputs and documented by Aster Volta. This is not the original 2022 computational environment.
 
 This personal scientific portfolio is not an official NASA/JPL publication or institutional endorsement. Source satellite products remain attributable to their providers. Reference the linked scientific products and the original presentations for further background.
