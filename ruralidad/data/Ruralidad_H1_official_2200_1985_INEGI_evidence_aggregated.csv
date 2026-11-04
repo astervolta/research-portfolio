@@ -1,0 +1,9 @@
+metro,mapbiomas_stratum,stratum_area_ha,n_sample,inegi_natural_n,inegi_other_n,inegi_hydrological_n,mapbiomas_1985_vs_inegi_agree_n,disagree_n,not_comparable_n
+ZMVM,gain,8181.564426135978,150,30,112,8,112,30,8
+ZMVM,loss,8286.090315847352,150,32,118,0,32,118,0
+ZMVM,stable_natural,142206.11747148936,300,245,55,0,245,55,0
+ZMVM,stable_other,304317.0003563144,500,72,424,4,424,72,4
+AMG,gain,970.814425507834,150,66,68,16,68,66,16
+AMG,loss,3117.4421422054425,150,88,54,8,88,54,8
+AMG,stable_natural,22829.87514341606,200,182,18,0,182,18,0
+AMG,stable_other,189376.14265325468,600,196,398,6,398,196,6

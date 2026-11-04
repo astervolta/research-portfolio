@@ -1,0 +1,39 @@
+{
+  "baseline_id": "H1_FINAL_20260921_214836",
+  "source_run_id": "20260921_214836",
+  "label_signature_sha256": "4e8752a17a7a38a57f702ff832688394088418929403167559f13d38d503a910",
+  "historical_confidence_threshold": 0.5,
+  "recent_confidence_threshold": 0.64,
+  "metros": {
+    "ZMVM": {
+      "loss_ha": 8579.433432441332,
+      "gain_ha": 58643.126607470665,
+      "net_ha": 50063.69317502932,
+      "unknown_ha": 1967.4914035273334,
+      "unknown_points": 8,
+      "transition_counts": {
+        "stable_other": 462,
+        "stable_natural": 382,
+        "gain": 165,
+        "loss": 50,
+        "hydrological": 33,
+        "unknown": 8
+      }
+    },
+    "AMG": {
+      "loss_ha": 6951.4867403083335,
+      "gain_ha": 25246.456339466666,
+      "net_ha": 18294.969599158332,
+      "unknown_ha": 1880.3596496316666,
+      "unknown_points": 14,
+      "transition_counts": {
+        "stable_natural": 503,
+        "stable_other": 389,
+        "gain": 124,
+        "loss": 40,
+        "hydrological": 30,
+        "unknown": 14
+      }
+    }
+  }
+}
