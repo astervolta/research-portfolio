@@ -1,0 +1,4 @@
+month,historical_years,source_rasters,output_2020_raster_file,historical_reference_excludes_2020,source_zero_mask_cells,fully_valid_reference_cells,valid_2020_anomaly_cells,zero_mask_fraction
+June,18,18,mean_ndvi-june 2020.tif.tiff,True,1923405,2294963,2294963,0.4559595085113485
+July,18,18,mean_ndvi-july 2020.tif.tiff,True,1923405,2294963,2294963,0.4559595085113485
+August,18,18,mean_ndvi-august 2020.tif.tiff,True,1923405,2294963,2294963,0.4559595085113485
