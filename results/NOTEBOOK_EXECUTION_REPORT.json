@@ -1,0 +1,72 @@
+{
+  "scope": "All 7 archived original-data notebooks executed independently in Jupyter kernel against packaged repository inputs",
+  "reports": [
+    {
+      "notebook": "notebooks/01_MODIS_NDVI_Actual_2019_2020.ipynb",
+      "status": "PASS",
+      "elapsed_seconds": 11.16,
+      "code_cells": 3,
+      "cells_with_outputs": 2,
+      "error_outputs": 0,
+      "uses_real_data": true
+    },
+    {
+      "notebook": "notebooks/02_NASA_USDA_SMAP_2020_Actual_Maps.ipynb",
+      "status": "PASS",
+      "elapsed_seconds": 8.12,
+      "code_cells": 3,
+      "cells_with_outputs": 2,
+      "error_outputs": 0,
+      "uses_real_data": true
+    },
+    {
+      "notebook": "notebooks/03_ECOSTRESS_ET_Real_2019_2020.ipynb",
+      "status": "PASS",
+      "elapsed_seconds": 4.76,
+      "code_cells": 4,
+      "cells_with_outputs": 3,
+      "error_outputs": 0,
+      "uses_real_data": true
+    },
+    {
+      "notebook": "notebooks/04_Mongolia_Mortality_and_Multisensor_Comparison.ipynb",
+      "status": "PASS",
+      "elapsed_seconds": 4.68,
+      "code_cells": 4,
+      "cells_with_outputs": 3,
+      "error_outputs": 0,
+      "uses_real_data": true
+    },
+    {
+      "notebook": "notebooks/05_MODIS_NDVI_True_2002_2019_Anomalies.ipynb",
+      "status": "PASS",
+      "elapsed_seconds": 17.36,
+      "code_cells": 3,
+      "cells_with_outputs": 2,
+      "error_outputs": 0,
+      "note": "Passed independently in a fresh Jupyter kernel after an unrelated transient kernel crash during batch orchestration."
+    },
+    {
+      "notebook": "notebooks/06_FLDAS_ET_True_2020_Anomalies.ipynb",
+      "status": "PASS",
+      "elapsed_seconds": 5.92,
+      "code_cells": 3,
+      "cells_with_outputs": 2,
+      "error_outputs": 0,
+      "uses_real_data": true
+    },
+    {
+      "notebook": "ruralidad/Ruralidad_H1_REAL_RESEARCH_AUDIT.ipynb",
+      "status": "PASS",
+      "elapsed_seconds": 3.88,
+      "code_cells": 6,
+      "cells_with_outputs": 6,
+      "error_outputs": 0,
+      "uses_real_data": true
+    }
+  ],
+  "total_passed": 7,
+  "total": 7,
+  "verified_on": "2026-10-29",
+  "scientific_unit_test_passed": 9
+}
