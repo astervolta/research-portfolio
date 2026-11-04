@@ -1,5 +1,7 @@
 # Research results at a glance | Mongolia dzud satellite research
 
+> Part of the **Mongolia Dzud (NASA/JPL, 2022)** project. Project overview: [MONGOLIA.md](MONGOLIA.md) · Portfolio home: [README](../README.md)
+
 **Aster Volta · Original JPL fellowship research (2022), independently reconstructed figures and code (2026)**
 
 > **Research question.** Can vegetation, soil moisture and evapotranspiration observed during summer help characterize the environmental context preceding severe winter livestock losses in Mongolia?
@@ -44,7 +46,7 @@ A scientifically useful follow-up would explicitly model winter cold/snow/icing 
 
 ## Reproduce or inspect
 
-- [Full README and execution instructions](../README.md)
+- [Full Mongolia project documentation and execution instructions](MONGOLIA.md)
 - [Data provenance, units and source archive](SOURCE_PROVENANCE.md)
 - [Scientific interpretation caveats](SCIENTIFIC_SCOPE.md)
 - [Verified code and results](../results/NOTEBOOK_EXECUTION_REPORT.json)

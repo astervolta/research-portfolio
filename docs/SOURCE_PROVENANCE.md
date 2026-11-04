@@ -1,5 +1,7 @@
 # Scientific data provenance and reproduction
 
+> Part of the **Mongolia Dzud (NASA/JPL, 2022)** project. Project overview: [MONGOLIA.md](MONGOLIA.md) · Portfolio home: [README](../README.md) · The Ruralidad row refers to the separate project documented in [ruralidad/README.md](../ruralidad/README.md).
+
 All distributed analysis inputs are genuine archived observational or reported research records. No synthetic meteorological, satellite, or livestock samples have been substituted.
 
 | Series | Archived observations packaged here | Analysis / interpretation | Original provider |

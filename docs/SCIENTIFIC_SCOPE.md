@@ -1,5 +1,7 @@
 # Scientific interpretation
 
+> Part of the **Mongolia Dzud (NASA/JPL, 2022)** project. Project overview: [MONGOLIA.md](MONGOLIA.md) · Portfolio home: [README](../README.md) · The closing Ruralidad note refers to the separate project documented in [ruralidad/README.md](../ruralidad/README.md).
+
 The objective is transparent exploratory analysis of original NASA/JPL Mongolia observations, not a finished or independently externally validated dzud prediction model.
 
 **Temporal scale:** satellite anomalies from March–August 2020 are compared with *annual* 2021 livestock mortality. This is an exploratory temporal association; mortality can reflect other weather extremes, disease, livestock management, exposure and socioeconomic factors.

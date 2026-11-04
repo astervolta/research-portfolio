@@ -1,5 +1,7 @@
 # Figure-to-JPL-presentation crosswalk
 
+> Part of the **Mongolia Dzud (NASA/JPL, 2022)** project. Project overview: [MONGOLIA.md](MONGOLIA.md) · Portfolio home: [README](../README.md)
+
 This inventory distinguishes **reconstructed numerical results** from original slides only documenting work attempted, proposed, or visualized in 2022.
 
 Original presentation sources:
