@@ -28,14 +28,27 @@ The notebook is neither a dummy-data exercise nor a rerun of the complete origin
 
 ## Audited H1 figures
 
-From [`results/ruralidad_audited_real_h1_figures.csv`](results/ruralidad_audited_real_h1_figures.csv). Areas in hectares, 1985–2025.
+Areas in hectares, 1985–2025, with 95% confidence intervals from the stratified area estimator.
 
-| Metro | Sample points | Loss | Gain | Net change | Unresolved area | Net minus unresolved |
+| Metro | Sample points | Loss (95% CI) | Gain (95% CI) | Net change (95% CI) | Unresolved area | Net minus unresolved |
 |---|---|---|---|---|---|---|
-| ZMVM | 1,100 | 8,579 | 58,643 | 50,064 | 1,967 | 48,096 |
-| AMG | 1,100 | 6,951 | 25,246 | 18,295 | 1,880 | 16,415 |
+| ZMVM | 1,100 | 8,579 (4,749–12,409) | 58,643 (48,313–68,973) | **50,064 (38,846–61,281)** | 1,967 | 48,096 |
+| AMG | 1,100 | 6,951 (4,160–9,743) | 25,246 (20,135–30,358) | **18,295 (12,294–24,296)** | 1,880 | 16,415 |
+
+Point estimates, unresolved area and the worst-case column are recomputed by the audit notebook and saved in [`results/ruralidad_audited_real_h1_figures.csv`](results/ruralidad_audited_real_h1_figures.csv). The confidence intervals come from the archived H1 validation summary for the same run (2026-09-21); they are not recomputed here, because the per-point standard-error inputs are not part of this public repository.
 
 **Interpretation.** These figures are areas of natural vegetation cover. They are not measures of ecological recovery, ecosystem condition, carbon mass or a climate-mitigation effect.
+
+### Sensitivity to reclassified points
+
+The estimated magnitude depends heavily on a subset of reclassified sample points. In the initial multi-source reference ensemble, many points could not be assigned a 1985–2025 transition and were left as unknown. These points were then classified using Landsat imagery from 1985–1989 and 2021–2025, which resolved most of them. In the final classification, fewer than 1% of each study area remains unresolved.
+
+| Metro | Points reclassified (of 1,100) | Final gain / loss points that were reclassified | Share of net change contributed by reclassified points | Net change from ensemble labels alone |
+|---|---|---|---|---|
+| ZMVM | 374 | 115 of 165 / 34 of 50 | 76% | about 11,800 ha |
+| AMG | 345 | 97 of 124 / 23 of 40 | 98% | about 400 ha |
+
+The last column is not an alternative estimate, since it simply leaves the unknown points unassigned. It shows how strongly the reported magnitude, especially in AMG, rests on the Landsat-based classification of those points. The confidence intervals above reflect sampling uncertainty only; they do not capture uncertainty in how the reclassified points were labeled. These sensitivity figures were computed from the archived point-level H1 outputs, which contain sample coordinates and are not included in this repository.
 
 Other outputs: [`results/ruralidad_real_1985_source_comparison.csv`](results/ruralidad_real_1985_source_comparison.csv) and the summary figure [`results/ruralidad_REAL_data_results.png`](results/ruralidad_REAL_data_results.png).
 

@@ -37,7 +37,7 @@ A separate study of natural-vegetation transitions between 1985 and 2025 in the 
 
 **What this repository contains.** One audit notebook that independently rechecks the archived H1 results: sample-count invariants, full-precision net-area arithmetic, and agreement between MapBiomas and INEGI Serie I for 1985 across all 2,200 sampling points. It reproduces the audit, not the study's complete upstream image-processing pipeline, which is not included in this public repository.
 
-**Audited H1 net change in natural-vegetation area, 1985–2025:** about 50,064 ha (ZMVM) and 18,295 ha (AMG). These are areas of natural vegetation cover. They are not measures of ecological recovery, ecosystem condition or carbon.
+**Audited H1 net change in natural-vegetation area, 1985–2025:** about 50,064 ha (95% CI 38,846–61,281) in ZMVM and 18,295 ha (95% CI 12,294–24,296) in AMG. The magnitude depends heavily on sample points that were reclassified using Landsat imagery after the initial reference ensemble left them unresolved; see the [sensitivity note](ruralidad/README.md#sensitivity-to-reclassified-points). These are areas of natural vegetation cover. They are not measures of ecological recovery, ecosystem condition or carbon.
 
 - **Project page:** [ruralidad/README.md](ruralidad/README.md) (scope, audit vs. full pipeline, how to run)
 - **Audit notebook:** [Ruralidad_H1_REAL_RESEARCH_AUDIT.ipynb](ruralidad/Ruralidad_H1_REAL_RESEARCH_AUDIT.ipynb)
